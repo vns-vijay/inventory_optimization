@@ -1,9 +1,6 @@
 import numpy as np
 import pandas as pd
 
-
-
-
 def generate_data(num_products=5):
     np.random.seed(42) 
 
