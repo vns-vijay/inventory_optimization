@@ -1,0 +1,6 @@
+Product,Price,Cost,Salvage,Demand_Mean,Demand_Std,Optimal_Order
+Product_1,68.73,23.12,5.21,120,21,132
+Product_2,97.54,21.16,14.7,132,26,169
+Product_3,86.6,37.32,13.32,175,19,183
+Product_4,79.93,32.02,7.12,157,25,167
+Product_5,57.8,34.16,6.82,121,24,119
